@@ -154,7 +154,3 @@ Add corresponding images to `assets/<label>.{jpg,png,bmp}` to have them displaye
 ├── hand_gesture_svm_pipeline.pkl   # auto-generated trained model
 └── assets/                         # gesture → image mapping
 ```
-
-## License
-
-MIT (or your license of choice — update before publishing).
